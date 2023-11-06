@@ -3,29 +3,22 @@ public:
     int maxProfit(int times, vector<int>& prices) {
         int n=prices.size();
         
-        vector<vector<int>> prev(2,vector<int>(times+1,0)),cur(2,vector<int>(times+1));
-        for(int i=n;i>=0;i--){
-            for(int j=0;j<=1;j++){
-                for(int k=0;k<=times;k++){
-                    if(i==n||k==0){
-                        cur[j][k]=0;
+        vector<int> prev(2*times+1,0),cur(2*times+1);
+        
+        for(int i=n-1;i>=0;i--){
+            for(int k=0;k<2*times;k++){
+                    if(k&1){//sell
+                        cur[k]=max(prices[i]+prev[k+1],prev[k]);
                     }
-                    else{
-
-                        if(j){
-                            cur[j][k]=max(prev[0][k]-prices[i],prev[1][k]);
-                        }
-                        else{
-                            cur[j][k]=max(prev[1][k-1]+prices[i],prev[0][k]);
-                        }
+                    else{//buy
+                        cur[k]=max(prev[k+1]-prices[i],prev[k]);
                     }
                 }
-            }
+            cur[2*times]=0;
             prev=cur;
         }
 
-        return prev[1][times];
-        
+        return prev[0];
     }
 };
 
