@@ -22,3 +22,15 @@ Thanks to,<br>
 |  |
 | ------- |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/vipulahir7/leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+# Array
+|  |
+| ------- |
+| [1376-selling-pieces-of-wood](https://github.com/vipulahir7/leetcode-solutions/tree/master/1376-selling-pieces-of-wood) |
+# Dynamic Programming
+|  |
+| ------- |
+| [1376-selling-pieces-of-wood](https://github.com/vipulahir7/leetcode-solutions/tree/master/1376-selling-pieces-of-wood) |
+# Memoization
+|  |
+| ------- |
+| [1376-selling-pieces-of-wood](https://github.com/vipulahir7/leetcode-solutions/tree/master/1376-selling-pieces-of-wood) |
