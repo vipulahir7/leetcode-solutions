@@ -25,12 +25,18 @@ Thanks to,<br>
 # Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vipulahir7/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1376-selling-pieces-of-wood](https://github.com/vipulahir7/leetcode-solutions/tree/master/1376-selling-pieces-of-wood) |
 # Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vipulahir7/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1376-selling-pieces-of-wood](https://github.com/vipulahir7/leetcode-solutions/tree/master/1376-selling-pieces-of-wood) |
 # Memoization
 |  |
 | ------- |
 | [1376-selling-pieces-of-wood](https://github.com/vipulahir7/leetcode-solutions/tree/master/1376-selling-pieces-of-wood) |
+# Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vipulahir7/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
