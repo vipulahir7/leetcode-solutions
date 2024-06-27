@@ -22,6 +22,7 @@ Thanks to,<br>
 |  |
 | ------- |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/vipulahir7/leetcode-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1916-find-center-of-star-graph](https://github.com/vipulahir7/leetcode-solutions/tree/master/1916-find-center-of-star-graph) |
 # Array
 |  |
 | ------- |
