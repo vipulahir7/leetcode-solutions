@@ -46,6 +46,7 @@ Thanks to,<br>
 ## Greedy
 |  |
 | ------- |
+| [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vipulahir7/leetcode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2379-maximum-total-importance-of-roads](https://github.com/vipulahir7/leetcode-solutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -82,4 +83,8 @@ Thanks to,<br>
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vipulahir7/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vipulahir7/leetcode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 <!---LeetCode Topics End-->
