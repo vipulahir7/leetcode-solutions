@@ -54,6 +54,7 @@ Thanks to,<br>
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/vipulahir7/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [2379-maximum-total-importance-of-roads](https://github.com/vipulahir7/leetcode-solutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -62,5 +63,14 @@ Thanks to,<br>
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/vipulahir7/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [1293-three-consecutive-odds](https://github.com/vipulahir7/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vipulahir7/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vipulahir7/leetcode-solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
