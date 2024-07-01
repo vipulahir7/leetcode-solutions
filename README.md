@@ -63,6 +63,7 @@ Thanks to,<br>
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vipulahir7/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0164-maximum-gap](https://github.com/vipulahir7/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [1293-three-consecutive-odds](https://github.com/vipulahir7/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 ## Bucket Sort
@@ -73,4 +74,12 @@ Thanks to,<br>
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vipulahir7/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/vipulahir7/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/vipulahir7/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
