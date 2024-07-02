@@ -4,16 +4,12 @@ public:
     int numTrees(int n) {
         vector<int> totalTrees(n+2);
         totalTrees[0] = 1;
-        totalTrees[1] = 1;
-        totalTrees[2] = 2;
 
-        for(int i=3;i<=n;i++){
-            int j=i-1, k = 0;
-            int temp = 0;
-            while(k<i){
-                temp += (totalTrees[j--]*totalTrees[k++]);
+        for(int i=1;i<=n;i++){
+            totalTrees[i] = 0;
+            for(int j=0; j<i; j++){
+                totalTrees[i] += totalTrees[j] * totalTrees[i-j-1];
             }
-            totalTrees[i] = temp;
         }
         return totalTrees[n];
     }
