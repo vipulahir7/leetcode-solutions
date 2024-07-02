@@ -121,4 +121,8 @@ Thanks to,<br>
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vipulahir7/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/vipulahir7/leetcode-solutions/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
