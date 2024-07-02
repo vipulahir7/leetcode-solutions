@@ -64,6 +64,7 @@ Thanks to,<br>
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vipulahir7/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/vipulahir7/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0164-maximum-gap](https://github.com/vipulahir7/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [1293-three-consecutive-odds](https://github.com/vipulahir7/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
@@ -87,4 +88,12 @@ Thanks to,<br>
 |  |
 | ------- |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vipulahir7/leetcode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vipulahir7/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vipulahir7/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
