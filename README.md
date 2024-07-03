@@ -82,6 +82,7 @@ Thanks to,<br>
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vipulahir7/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0290-word-pattern](https://github.com/vipulahir7/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
@@ -126,4 +127,8 @@ Thanks to,<br>
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/vipulahir7/leetcode-solutions/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/vipulahir7/leetcode-solutions/tree/master/0262-trips-and-users) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/vipulahir7/leetcode-solutions/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
