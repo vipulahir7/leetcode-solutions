@@ -48,6 +48,7 @@ Thanks to,<br>
 | ------- |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vipulahir7/leetcode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2379-maximum-total-importance-of-roads](https://github.com/vipulahir7/leetcode-solutions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Graph
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Thanks to,<br>
 | [0073-set-matrix-zeroes](https://github.com/vipulahir7/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0290-word-pattern](https://github.com/vipulahir7/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Matrix
 |  |
 | ------- |
@@ -131,4 +133,9 @@ Thanks to,<br>
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/vipulahir7/leetcode-solutions/tree/master/0290-word-pattern) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Stack
+|  |
+| ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->
