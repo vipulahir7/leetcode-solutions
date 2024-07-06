@@ -58,6 +58,7 @@ Thanks to,<br>
 | ------- |
 | [0164-maximum-gap](https://github.com/vipulahir7/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2379-maximum-total-importance-of-roads](https://github.com/vipulahir7/leetcode-solutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -71,6 +72,7 @@ Thanks to,<br>
 | [0164-maximum-gap](https://github.com/vipulahir7/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/vipulahir7/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Thanks to,<br>
 | [0073-set-matrix-zeroes](https://github.com/vipulahir7/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0290-word-pattern](https://github.com/vipulahir7/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Matrix
 |  |
@@ -138,4 +141,8 @@ Thanks to,<br>
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Counting
+|  |
+| ------- |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
