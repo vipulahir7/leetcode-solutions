@@ -73,6 +73,7 @@ Thanks to,<br>
 | [0350-intersection-of-two-arrays-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/vipulahir7/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Thanks to,<br>
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vipulahir7/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vipulahir7/leetcode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,4 +147,16 @@ Thanks to,<br>
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
