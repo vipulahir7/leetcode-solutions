@@ -1,10 +1,27 @@
 class Solution {
 public:
     int findTheWinner(int n, int k) {
-        int res = 0;
-        for (int player_num = 2; player_num <= n; ++player_num) {
-            res = (res + k) % player_num;
+        vector<bool> v(n+1,true);
+        int temp = k;
+        int count = n;
+        int i = 1;
+        while(count>1){
+            if(v[i]==true){
+                temp--;
+                if(temp==0){
+                    temp = k;
+                    v[i]=false;
+                    count--;
+                }
+            }
+            i++;
+            if(i>n) i = 1;
         }
-        return res + 1;
+        for(int i=1;i<=n;i++){
+            if(v[i]){
+                return i;
+            }
+        }
+        return 0;
     }
 };
