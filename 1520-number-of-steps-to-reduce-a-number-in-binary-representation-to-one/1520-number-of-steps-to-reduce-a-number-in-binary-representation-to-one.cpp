@@ -4,23 +4,18 @@ public:
         bool isGot = false;
         int count = 0, n = s.length();
         for(int i = n-1; i>0; i--){
-            if(s[i]=='1'){
-                if(isGot){
-                    count++;
-                }
-                else{
-                    isGot=true;
-                    count+=2;
-                }
+            if(isGot){
+                count++;
+                if(s[i]=='0') count++;
+            }
+            else if(s[i]=='1'){
+                isGot = true;
+                count+=2;
             }
             else{
-                if(isGot){
-                    count+=2;
-                }
-                else{
-                    count++;
-                }
+                count++;
             }
+            
         }
         return count + isGot;
     }
