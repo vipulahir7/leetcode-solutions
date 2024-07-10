@@ -110,6 +110,7 @@ Thanks to,<br>
 | ------- |
 | [0053-maximum-subarray](https://github.com/vipulahir7/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/vipulahir7/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [1250-longest-common-subsequence](https://github.com/vipulahir7/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Thanks to,<br>
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/vipulahir7/leetcode-solutions/tree/master/0290-word-pattern) |
+| [1250-longest-common-subsequence](https://github.com/vipulahir7/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vipulahir7/leetcode-solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Stack
