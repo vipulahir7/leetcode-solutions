@@ -142,12 +142,14 @@ Thanks to,<br>
 | ------- |
 | [0290-word-pattern](https://github.com/vipulahir7/leetcode-solutions/tree/master/0290-word-pattern) |
 | [1250-longest-common-subsequence](https://github.com/vipulahir7/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vipulahir7/leetcode-solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1720-crawler-log-folder](https://github.com/vipulahir7/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/vipulahir7/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Counting
