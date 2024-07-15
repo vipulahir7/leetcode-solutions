@@ -46,6 +46,7 @@ Thanks to,<br>
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vipulahir7/leetcode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2379-maximum-total-importance-of-roads](https://github.com/vipulahir7/leetcode-solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -67,6 +68,7 @@ Thanks to,<br>
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vipulahir7/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/vipulahir7/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0164-maximum-gap](https://github.com/vipulahir7/leetcode-solutions/tree/master/0164-maximum-gap) |
@@ -109,6 +111,7 @@ Thanks to,<br>
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vipulahir7/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/vipulahir7/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [1250-longest-common-subsequence](https://github.com/vipulahir7/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
