@@ -140,6 +140,7 @@ Thanks to,<br>
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/vipulahir7/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0185-department-top-three-salaries](https://github.com/vipulahir7/leetcode-solutions/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/vipulahir7/leetcode-solutions/tree/master/0262-trips-and-users) |
 ## String
