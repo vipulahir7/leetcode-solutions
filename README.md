@@ -154,6 +154,7 @@ Thanks to,<br>
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vipulahir7/leetcode-solutions/tree/master/0155-min-stack) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/vipulahir7/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -178,4 +179,8 @@ Thanks to,<br>
 |  |
 | ------- |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vipulahir7/leetcode-solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vipulahir7/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
