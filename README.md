@@ -145,6 +145,7 @@ Thanks to,<br>
 | [0178-rank-scores](https://github.com/vipulahir7/leetcode-solutions/tree/master/0178-rank-scores) |
 | [0185-department-top-three-salaries](https://github.com/vipulahir7/leetcode-solutions/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/vipulahir7/leetcode-solutions/tree/master/0262-trips-and-users) |
+| [1182-game-play-analysis-iv](https://github.com/vipulahir7/leetcode-solutions/tree/master/1182-game-play-analysis-iv) |
 ## String
 |  |
 | ------- |
