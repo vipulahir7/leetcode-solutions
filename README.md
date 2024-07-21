@@ -147,6 +147,7 @@ Thanks to,<br>
 | [0262-trips-and-users](https://github.com/vipulahir7/leetcode-solutions/tree/master/0262-trips-and-users) |
 | [0626-exchange-seats](https://github.com/vipulahir7/leetcode-solutions/tree/master/0626-exchange-seats) |
 | [1182-game-play-analysis-iv](https://github.com/vipulahir7/leetcode-solutions/tree/master/1182-game-play-analysis-iv) |
+| [2087-confirmation-rate](https://github.com/vipulahir7/leetcode-solutions/tree/master/2087-confirmation-rate) |
 ## String
 |  |
 | ------- |
