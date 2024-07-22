@@ -50,6 +50,7 @@ Thanks to,<br>
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vipulahir7/leetcode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2379-maximum-total-importance-of-roads](https://github.com/vipulahir7/leetcode-solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Graph
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Thanks to,<br>
 | [0350-intersection-of-two-arrays-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2379-maximum-total-importance-of-roads](https://github.com/vipulahir7/leetcode-solutions/tree/master/2379-maximum-total-importance-of-roads) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Thanks to,<br>
 | [1720-crawler-log-folder](https://github.com/vipulahir7/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/vipulahir7/leetcode-solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Bucket Sort
 |  |
 | ------- |
