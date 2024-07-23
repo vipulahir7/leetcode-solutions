@@ -5,9 +5,6 @@ public:
         sort(arr, arr+3);
 
         if(arr[2] >= arr[0] + arr[1]) return arr[0] + arr[1];
-
-        int cnt = (arr[0] + arr[1]) - arr[2];
-        cnt = (cnt+1)/2;
-        return arr[0] + arr[1] - cnt;
+        return (arr[0] + arr[1] + arr[2])/2;
     }
 };
