@@ -48,6 +48,7 @@ Thanks to,<br>
 | ------- |
 | [0045-jump-game-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vipulahir7/leetcode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1879-maximum-score-from-removing-stones](https://github.com/vipulahir7/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [2379-maximum-total-importance-of-roads](https://github.com/vipulahir7/leetcode-solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -66,6 +67,7 @@ Thanks to,<br>
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1879-maximum-score-from-removing-stones](https://github.com/vipulahir7/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [2379-maximum-total-importance-of-roads](https://github.com/vipulahir7/leetcode-solutions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Array
 |  |
@@ -107,6 +109,7 @@ Thanks to,<br>
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vipulahir7/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vipulahir7/leetcode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1879-maximum-score-from-removing-stones](https://github.com/vipulahir7/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
