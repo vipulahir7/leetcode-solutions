@@ -135,6 +135,7 @@ Thanks to,<br>
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vipulahir7/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vipulahir7/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Thanks to,<br>
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vipulahir7/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vipulahir7/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Database
 |  |
 | ------- |
@@ -195,4 +197,12 @@ Thanks to,<br>
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vipulahir7/leetcode-solutions/tree/master/0155-min-stack) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vipulahir7/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vipulahir7/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
