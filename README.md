@@ -62,6 +62,7 @@ Thanks to,<br>
 | [0164-maximum-gap](https://github.com/vipulahir7/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2331-intersection-of-multiple-arrays](https://github.com/vipulahir7/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2379-maximum-total-importance-of-roads](https://github.com/vipulahir7/leetcode-solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Heap (Priority Queue)
@@ -83,6 +84,7 @@ Thanks to,<br>
 | [1720-crawler-log-folder](https://github.com/vipulahir7/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/vipulahir7/leetcode-solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2331-intersection-of-multiple-arrays](https://github.com/vipulahir7/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Bucket Sort
 |  |
@@ -99,6 +101,7 @@ Thanks to,<br>
 | [0290-word-pattern](https://github.com/vipulahir7/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2331-intersection-of-multiple-arrays](https://github.com/vipulahir7/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Matrix
 |  |
@@ -176,6 +179,7 @@ Thanks to,<br>
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2331-intersection-of-multiple-arrays](https://github.com/vipulahir7/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 ## Recursion
 |  |
 | ------- |
