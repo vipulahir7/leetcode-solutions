@@ -85,6 +85,7 @@ Thanks to,<br>
 | [1803-average-waiting-time](https://github.com/vipulahir7/leetcode-solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2331-intersection-of-multiple-arrays](https://github.com/vipulahir7/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/vipulahir7/leetcode-solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Bucket Sort
 |  |
@@ -102,6 +103,7 @@ Thanks to,<br>
 | [0350-intersection-of-two-arrays-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2331-intersection-of-multiple-arrays](https://github.com/vipulahir7/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/vipulahir7/leetcode-solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Matrix
 |  |
@@ -114,6 +116,7 @@ Thanks to,<br>
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/vipulahir7/leetcode-solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1879-maximum-score-from-removing-stones](https://github.com/vipulahir7/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/vipulahir7/leetcode-solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -209,4 +212,12 @@ Thanks to,<br>
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vipulahir7/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/vipulahir7/leetcode-solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
+## Enumeration
+|  |
+| ------- |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/vipulahir7/leetcode-solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
 <!---LeetCode Topics End-->
