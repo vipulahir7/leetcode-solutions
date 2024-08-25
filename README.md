@@ -63,6 +63,7 @@ Thanks to,<br>
 | [0350-intersection-of-two-arrays-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2331-intersection-of-multiple-arrays](https://github.com/vipulahir7/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2333-count-number-of-rectangles-containing-each-point](https://github.com/vipulahir7/leetcode-solutions/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2379-maximum-total-importance-of-roads](https://github.com/vipulahir7/leetcode-solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Heap (Priority Queue)
@@ -86,6 +87,7 @@ Thanks to,<br>
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2331-intersection-of-multiple-arrays](https://github.com/vipulahir7/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/vipulahir7/leetcode-solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2333-count-number-of-rectangles-containing-each-point](https://github.com/vipulahir7/leetcode-solutions/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Bucket Sort
 |  |
@@ -137,6 +139,7 @@ Thanks to,<br>
 | ------- |
 | [0035-search-insert-position](https://github.com/vipulahir7/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2333-count-number-of-rectangles-containing-each-point](https://github.com/vipulahir7/leetcode-solutions/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 ## Tree
 |  |
 | ------- |
@@ -220,4 +223,8 @@ Thanks to,<br>
 |  |
 | ------- |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/vipulahir7/leetcode-solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2333-count-number-of-rectangles-containing-each-point](https://github.com/vipulahir7/leetcode-solutions/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 <!---LeetCode Topics End-->
