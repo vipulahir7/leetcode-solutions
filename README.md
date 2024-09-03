@@ -85,6 +85,7 @@ Thanks to,<br>
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1720-crawler-log-folder](https://github.com/vipulahir7/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/vipulahir7/leetcode-solutions/tree/master/1803-average-waiting-time) |
+| [1833-find-the-highest-altitude](https://github.com/vipulahir7/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2331-intersection-of-multiple-arrays](https://github.com/vipulahir7/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/vipulahir7/leetcode-solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
@@ -234,6 +235,7 @@ Thanks to,<br>
 ## Prefix Sum
 |  |
 | ------- |
+| [1833-find-the-highest-altitude](https://github.com/vipulahir7/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/vipulahir7/leetcode-solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Ordered Set
 |  |
