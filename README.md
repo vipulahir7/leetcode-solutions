@@ -133,6 +133,7 @@ Thanks to,<br>
 | [0045-jump-game-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vipulahir7/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/vipulahir7/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0131-palindrome-partitioning](https://github.com/vipulahir7/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [1250-longest-common-subsequence](https://github.com/vipulahir7/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
@@ -173,6 +174,7 @@ Thanks to,<br>
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/vipulahir7/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/vipulahir7/leetcode-solutions/tree/master/0290-word-pattern) |
 | [1250-longest-common-subsequence](https://github.com/vipulahir7/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -241,4 +243,8 @@ Thanks to,<br>
 |  |
 | ------- |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/vipulahir7/leetcode-solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/vipulahir7/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
