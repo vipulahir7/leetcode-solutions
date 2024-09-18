@@ -123,6 +123,7 @@ Thanks to,<br>
 | [1879-maximum-score-from-removing-stones](https://github.com/vipulahir7/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/vipulahir7/leetcode-solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/vipulahir7/leetcode-solutions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Thanks to,<br>
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/vipulahir7/leetcode-solutions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Queue
 |  |
 | ------- |
