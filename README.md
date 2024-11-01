@@ -92,6 +92,7 @@ Thanks to,<br>
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/vipulahir7/leetcode-solutions/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/vipulahir7/leetcode-solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vipulahir7/leetcode-solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Thanks to,<br>
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vipulahir7/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/vipulahir7/leetcode-solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/vipulahir7/leetcode-solutions/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vipulahir7/leetcode-solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Thanks to,<br>
 | [0096-unique-binary-search-trees](https://github.com/vipulahir7/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/vipulahir7/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [1250-longest-common-subsequence](https://github.com/vipulahir7/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vipulahir7/leetcode-solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,4 +252,8 @@ Thanks to,<br>
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/vipulahir7/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+## Number Theory
+|  |
+| ------- |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vipulahir7/leetcode-solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
