@@ -92,6 +92,7 @@ Thanks to,<br>
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/vipulahir7/leetcode-solutions/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/vipulahir7/leetcode-solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/vipulahir7/leetcode-solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/vipulahir7/leetcode-solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vipulahir7/leetcode-solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Bucket Sort
 |  |
@@ -112,6 +113,7 @@ Thanks to,<br>
 | [2332-count-lattice-points-inside-a-circle](https://github.com/vipulahir7/leetcode-solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/vipulahir7/leetcode-solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vipulahir7/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/vipulahir7/leetcode-solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Thanks to,<br>
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/vipulahir7/leetcode-solutions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2331-intersection-of-multiple-arrays](https://github.com/vipulahir7/leetcode-solutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/vipulahir7/leetcode-solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -235,6 +238,7 @@ Thanks to,<br>
 |  |
 | ------- |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/vipulahir7/leetcode-solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/vipulahir7/leetcode-solutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
